@@ -1,4 +1,5 @@
-# EcoLearn OS
+# SO_Futuro
+ EcoLearn OS
 
 **EcoLearn OS** es un sistema operativo diseñado para centros educativos con un enfoque en sostenibilidad ambiental y aprendizaje remoto eficiente. Su arquitectura basada en microkernel permite modularidad y estabilidad, optimizando el uso de recursos en dispositivos de bajos requerimientos.
 
